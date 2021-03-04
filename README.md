@@ -7,8 +7,11 @@ Cause this is when it started as a commitment made on my birthday :)
 ## Feb
 
 ### 10th Feb, 2021
-- [Attacking Machine Learning with Adversarial Examples](https://openai.com/blog/adversarial-example-research/)
+- [Attacking Machine Learning with Adversarial Examples](https://openai.com/blog/adversarial-example-research/) [Adversarial Attacks]
 
+# March
+### 4th Mar, 2021
+- [IRS Assisted Multiple User Detection for Uplink URLLC Non-Orthogonal Multiple Access](https://ieeexplore.ieee.org/document/9162705) [IRS - Wireless Communication]
 
 # Resources
 ## 30 days of Flutter
