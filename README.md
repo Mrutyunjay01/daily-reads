@@ -16,6 +16,7 @@ Cause this is when it started as a commitment made on my birthday :)
 - [Recurrent Rational Networks](https://arxiv.org/pdf/2102.09407.pdf)
 ### 11th Mar, 2021
 - [Attention is Not All You Need: Pure Attention Loses Rank Doubly Exponentially with Depth](https://arxiv.org/abs/2103.03404)
+- [Getting to know probability distributions by Cassie Kozyrkov](https://towardsdatascience.com/getting-to-know-probability-distributions-cc1dd1e2f22b) 
 
 # Resources
 ## 30 days of Flutter
