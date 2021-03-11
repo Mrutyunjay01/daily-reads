@@ -12,6 +12,10 @@ Cause this is when it started as a commitment made on my birthday :)
 ## March
 ### 4th Mar, 2021
 - [IRS Assisted Multiple User Detection for Uplink URLLC Non-Orthogonal Multiple Access](https://ieeexplore.ieee.org/document/9162705) [IRS - Wireless Communication]
+### 10th Mar, 2021
+- [Recurrent Rational Networks](https://arxiv.org/pdf/2102.09407.pdf)
+### 11th Mar, 2021
+- [Attention is Not All You Need: Pure Attention Loses Rank Doubly Exponentially with Depth](https://arxiv.org/abs/2103.03404)
 
 # Resources
 ## 30 days of Flutter
