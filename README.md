@@ -17,6 +17,12 @@ Cause this is when it started as a commitment made on my birthday :)
 ### 11th Mar, 2021
 - [Attention is Not All You Need: Pure Attention Loses Rank Doubly Exponentially with Depth](https://arxiv.org/abs/2103.03404)
 - [Getting to know probability distributions by Cassie Kozyrkov](https://towardsdatascience.com/getting-to-know-probability-distributions-cc1dd1e2f22b) 
+### 14th Mar, 2021
+- [LEAF: A Learnable Frontend for Audio Classification by DeepMind, ICLR'21](https://arxiv.org/abs/2101.08596)
+- [Implementation of LEAF](https://github.com/google-research/leaf-audio)
+- [Google AI Blog on LEAF](https://ai.googleblog.com/2021/03/leaf-learnable-frontend-for-audio.html)
+## 15th Mar, 2021
+- [Common pitfalls and recommendations for using machine learning to detect and prognosticate for COVID-19 using chest radiographs and CT scans](https://www.nature.com/articles/s42256-021-00307-0) [An AI Failure because of Bias and Errors]
 
 # Resources
 ## 30 days of Flutter
