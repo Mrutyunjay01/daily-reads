@@ -24,6 +24,9 @@ Cause this is when it started as a commitment made on my birthday :)
 ## 15th Mar, 2021
 - [Common pitfalls and recommendations for using machine learning to detect and prognosticate for COVID-19 using chest radiographs and CT scans](https://www.nature.com/articles/s42256-021-00307-0) [An AI Failure because of Bias and Errors]
 
+# Machine Learning 
+- [Activation Functions Explained - GELU, SELU, ELU, ReLU and more](https://mlfromscratch.com/activation-functions-explained/)
+
 # Resources
 ## 30 days of Flutter
 - Week1: https://events.withgoogle.com/30-daysofflutter/week-01-content/#content
