@@ -28,6 +28,7 @@ Cause this is when it started as a commitment made on my birthday :)
 - [Activation Functions Explained - GELU, SELU, ELU, ReLU and more](https://mlfromscratch.com/activation-functions-explained/)
 # Natural Language Processing
 - [ComQA - Compositional Question Answering via Hierarchical Graph Neural Networks](https://arxiv.org/pdf/2101.06400.pdf)
+- [ReasonBERT: Pre-trained to reason with distant supervision](https://arxiv.org/pdf/2109.04912.pdf)
 # Resources
 ## 30 days of Flutter
 - Week1: https://events.withgoogle.com/30-daysofflutter/week-01-content/#content
